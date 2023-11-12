@@ -14,7 +14,7 @@ public class Task5 {
             System.out.println("print length array");
             length = scanner.nextInt();
             if (length > 10 || length < 0) {
-                System.out.println("error");
+                System.out.println("wrong input");
             } else break;
         }
         int[] array1 = new int[length];

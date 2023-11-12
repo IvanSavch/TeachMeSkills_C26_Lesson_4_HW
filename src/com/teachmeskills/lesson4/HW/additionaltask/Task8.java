@@ -17,7 +17,7 @@ public class Task8 {
                 }
             }
         }
-        System.out.println(array.length -1);
+
         System.out.println(Arrays.toString(array));
     }
 }
