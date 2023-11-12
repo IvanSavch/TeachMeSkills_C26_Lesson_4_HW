@@ -1,5 +1,4 @@
-# ubiquitous-adventure
-my homework number 4
+# my homework number 4
 
 This reposyitory was crate for my homework number 4:
 
